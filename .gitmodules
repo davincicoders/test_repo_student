@@ -1,0 +1,3 @@
+[submodule "instructor"]
+	path = instructor
+	url = git@github.com:davincicoders/test_repo_instructor.git
